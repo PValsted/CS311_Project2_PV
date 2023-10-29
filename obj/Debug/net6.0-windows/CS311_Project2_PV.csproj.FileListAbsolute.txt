@@ -1,0 +1,16 @@
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\CS311_Project2_PV.Craps.resources
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\CS311_Project2_PV.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\CS311_Project2_PV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\CS311_Project2_PV.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\CS311_Project2_PV.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\CS311_Project2_PV.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\CS311_Project2_PV\bin\Debug\net6.0-windows\CS311_Project2_PV.exe
+C:\Users\Patrick\source\repos\CS311_Project2_PV\bin\Debug\net6.0-windows\CS311_Project2_PV.deps.json
+C:\Users\Patrick\source\repos\CS311_Project2_PV\bin\Debug\net6.0-windows\CS311_Project2_PV.runtimeconfig.json
+C:\Users\Patrick\source\repos\CS311_Project2_PV\bin\Debug\net6.0-windows\CS311_Project2_PV.dll
+C:\Users\Patrick\source\repos\CS311_Project2_PV\bin\Debug\net6.0-windows\CS311_Project2_PV.pdb
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\CS311_Project2_PV.dll
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\refint\CS311_Project2_PV.dll
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\CS311_Project2_PV.pdb
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\CS311_Project2_PV.genruntimeconfig.cache
+C:\Users\Patrick\source\repos\CS311_Project2_PV\obj\Debug\net6.0-windows\ref\CS311_Project2_PV.dll
